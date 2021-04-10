@@ -4,8 +4,12 @@ My name is Shreyas and I am a junior at MIT studying math and computer science. 
 
 ## Quick Links
 - [Resume](https://github.com/shreysrins/resume/blob/main/Shreyas-Srinivasan-Resume.pdf)
-- [Website](https://shreyass.mit.edu/)
+- [Website](https://www.mit.edu/~shreyass)
 - [LinkedIn](https://www.linkedin.com/in/svsrinivasan/)
+
+## Featured Projects
+- ♦️♣️♥️♠️ [MIT Pokerbots 2021 Game Engine](https://github.com/mitpokerbots/engine-2021)
+- 📈 [Bond Calculator](https://github.com/shreysrins/bond-calculator)
 
 <!--
 **shreysrins/shreysrins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
